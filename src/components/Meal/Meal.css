@@ -1,0 +1,20 @@
+.meal {
+    width: 300px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding-bottom: 10px;
+
+}
+
+.meal img {
+    width: 95%;
+    margin-top: 5px;
+
+}
+
+.meal-info {
+    text-align: left;
+    padding: 0 15px;
+
+
+}
