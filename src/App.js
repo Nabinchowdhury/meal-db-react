@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Header> </Header>
-      <Spinner animation="border" variant="primary" />
+      {/* <Spinner animation="border" variant="primary" /> */}
       <Shop></Shop>
     </div>
   );

@@ -11,7 +11,7 @@ const Header = () => {
                 <h1 >Hungry Monster</h1>
             </div>
             <NavComponent></NavComponent>
-            <ToastComponent></ToastComponent>
+            {/* <ToastComponent></ToastComponent> */}
         </div>
     );
 };
